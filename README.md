@@ -7,5 +7,5 @@
 > npm install
 ###### 运行
 > webpack-dev-server
-###### 预览
+###### 运行后界面
 ![Image text](https://raw.githubusercontent.com/luojiao123/tab-react/master/img/run.png)

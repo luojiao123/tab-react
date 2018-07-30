@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.outBox{
+	width: 712px;
+	height: 260px;
+	border: 1px solid #ccc;
+	margin: 20px auto;
+	padding: 10px;
+}
+.topBox{
+	width: 100%;
+	height: 60px;
+	float: left;
+}
+.topBox ul{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.topBox ul li{
+	float: left;
+	list-style: none;
+	height: 56px;
+	line-height: 56px;
+	padding: 0 25px;
+	background: #fff;
+	box-shadow: 0 4px 0 #e4e4e4;
+	margin-right: 14px;
+	color: #ccc;
+	cursor: pointer;
+}
+.topBox ul li.active{
+	background: #a0cac0;
+	box-shadow: 0 4px 0 #68a597;
+	color: #fff;
+}
+.bBox{
+	width: 100%;
+	height: 190px;
+	float: left;
+	margin-top: 10px;
+	overflow: hidden;
+}
+.bottomBox{
+	width: 100%;
+	height: 186px;
+	float: left;
+	background: #fff;
+	box-shadow: 0 4px 0 #E4E4E4;
+	text-align: center;
+	line-height: 186px;
+	color: #ccc;
+	font-size: 36px;
+}
